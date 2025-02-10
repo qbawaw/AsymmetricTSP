@@ -5,7 +5,7 @@
 #include <string>
 #include <limits>
 #include <cmath>
-#include "nlohmann/json.hpp"
+#include <nlohmann/json.hpp>
 #include <algorithm>
 #include <random>
 #include <chrono>
